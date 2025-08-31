@@ -3,7 +3,7 @@ HR data analysis project exploring employee demographics, performance, engagemen
 
 **Title project** → HR Analytics Dashboard: Employee Engagement & Performance
 
-**Project overview** → Proyek ini bertujuan untuk menganalisis data sumber daya manusia (SDM) guna mendapatkan insight mengenai **demografi karyawan, status kerja, absensi, engagement, performa, serta faktor-faktor yang memengaruhi turnover**.  Analisis dilakukan menggunakan Python (Google Colab) dengan fokus pada visualisasi, pola keterlibatan karyawan, serta hubungan antara tenure, absensi, dan kinerja.
+**Project overview** → Proyek ini bertujuan menganalisis data SDM guna memperoleh insight strategis terkait **demografi, status kerja, absensi, engagement, performa, serta faktor yang memengaruhi turnover**. Analisis dilakukan menggunakan Python (Google Colab) dengan fokus pada visualisasi, pola keterlibatan, serta hubungan antara tenure, absensi, dan kinerja. Hasil analisis diharapkan memberikan rekomendasi berbasis data bagi pengambilan keputusan HR yang lebih efektif.
 
 **Raw dataset link** → https://www.kaggle.com/datasets/rhuebner/human-resources-data-set
 
